@@ -13,4 +13,8 @@ class MainActivity : AppCompatActivity() {
     private fun featureThree() {
         print("feature three")
     }
+
+    private fun featureFour() {
+        print("four")
+    }
 }
