@@ -9,4 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val hello = "Hello daffa"
     }
+
+    private fun featureOne() {
+        print("feature one")
+    }
 }
